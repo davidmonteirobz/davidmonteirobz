@@ -29,6 +29,7 @@ Me chamo David Luan Monteiro Barboza e sou natural da Paraiba. Tenho 5 anos de e
 -   🤖 Desenvolvo agentes de IA
 -   ⚙️ Automação de fluxos e integrações
 
+  <img
     align="left"
     alt="GitHub Stats"
     height="200"
