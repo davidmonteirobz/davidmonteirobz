@@ -2,7 +2,7 @@
 
 **`Vibe Coder Full Stack`**  
 
-Me chamo David Luan Monteiro Barboza e sou natural da Paraiba. Tenho 5 anos de experiencia como designer na construção de produtos digitais. Hoje focado em Vibe Coding  construindo interfaces, automações e aplicações funcionais do zero com IA e ferramentas Low-Code.
+Me chamo David Luan Monteiro Barboza e sou natural da Paraiba. Atuo no mercado digital desde 2019 com foco na criação de soluções visuais e estratégicas para produtos digitais, tendo contribuído em campanhas que alcançaram faturamentos de múltiplos seis dígitos. Esse background me deu visão de produto, criatividade, entendimento de experiência do usuário, análise de métricas e estratégia de comunicação. Hoje atuo com Vibe Coding na construção de soluções completas: sistemas, automações, dashboards e agentes de IA.
 
 ---
 
